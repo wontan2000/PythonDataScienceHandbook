@@ -14,4 +14,4 @@ numexpr
 pandas-datareader
 netcdf4
 jupyter_contrib_nbextensions
-jupyterlab-git
+jupyterlab=1.1.3
